@@ -1,12 +1,14 @@
 <p align="center">
   <a href="https://github.com/Anna-Gropp">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D40DD&fontSize=54&height=90&width=1200&text=%E2%8B%86%CB%99%E2%9F%A1%20%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8!%20%F0%9D%90%88'%F0%9D%90%A6%20%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9A%20%E1%B5%94%20%E1%B5%95%20%E1%B5%94%20%E2%9F%A1%CB%99%E2%8B%86" alt="⋆˙⟡ 𝐇𝐞𝐥𝐥𝐨! 𝐈&#39;𝐦 𝐀𝐧𝐧𝐚 ᵔ ᵕ ᵔ ⟡˙⋆" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5D40DD&fontSize=54&height=50&width=1200&text=%E2%8B%86%CB%99%E2%9F%A1%20%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A8!%20%F0%9D%90%88'%F0%9D%90%A6%20%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9A%20%E1%B5%94%20%E1%B5%95%20%E1%B5%94%20%E2%9F%A1%CB%99%E2%8B%86" alt="⋆˙⟡ 𝐇𝐞𝐥𝐥𝐨! 𝐈&#39;𝐦 𝐀𝐧𝐧𝐚 ᵔ ᵕ ᵔ ⟡˙⋆" />
   </a>
 </p>
 
-<p align="center">
+<p align="center style="margin-top:-18px;">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=AA9BED&center=true&vCenter=true&width=685&height=44&lines=Graphic%20Designer%20%26%20Computer%20Science%20Student" alt="Typing headlines" />
 </p>
+
+<br/>
 
 ### („• ֊ •„)੭       ✧    About Me
 
