@@ -31,6 +31,6 @@
 ### ദ്ദി(˵ •̀ ᴗ - ˵ )   ✧   Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/anna-gropp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-5D40DD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/anna-gropp/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-5D40DD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anna.mika.gropp@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-5D40DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
